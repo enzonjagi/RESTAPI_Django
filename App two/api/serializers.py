@@ -8,7 +8,7 @@ from rest_framework.validators import UniqueTogetherValidator
 class UserSerializer(serializers.ModelSerializer):
     """Serializes the user JSON object(s)
     
-    a serializer in order to map JSON to our model and vice-versa. 
+    A serializer to map JSON to our model and vice-versa. 
     The unique together validator will allow us to verify that the combination of username and email 
     is unique for any particular user.
     """
