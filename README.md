@@ -11,7 +11,9 @@ and consume this apis with apps. This will be done in phases:
 ## Follow along tutorials on djangorestframework
 
 ## App one: [Create a REST API With Django REST Framework](https://www.makeuseof.com/django-rest-api-create/).
+![image](/images/appone.png)
 <p>Creating a REST API is a convenient way to share information. REST APIs have defined standards regulating data sharing between devices. To understand how REST APIs work, you can build one from scratch.</p>
 
 ## App two: [Flutter signup/login application with Django backend](https://dev.to/amartyadev/flutter-app-authentication-with-django-backend-1-21cp)
+![image](/images/apptwo.png)
 <p>By author: This series of posts intends to develop a flutter signup/login app working with API calls to Django backend. The idea is to use the DRF to create APIs which can be called by the flutter application. </p>
