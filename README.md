@@ -7,7 +7,6 @@ and consume this apis with apps. This will be done in phases:
 
 * <b>Follow along tutorials</b>: Being a beginner, I will start with the follow along tutorials
 * <b>Customly Tailored apps</b>: The custom apis and apps that I'll be building along the process - might write some tutorials too.
-
 ## Follow along tutorials on djangorestframework
 
 ## App one: [Create a REST API With Django REST Framework](https://www.makeuseof.com/django-rest-api-create/).
