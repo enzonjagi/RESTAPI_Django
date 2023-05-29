@@ -62,26 +62,35 @@ class _MyHomePageState extends State<MyHomePage> {
           itemCount: _userModel!.length,
           itemBuilder: (context, index) {
             return Card(
-              child: Column(
-                children: [
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                    children: [
-                      Text(_userModel![index].id.toString()),
-                      Text(_userModel![index].username),
-                    ],
-                  ),
-                  const SizedBox(
-                    height: 20.0,
-                  ),
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                    children: [
-                      Text(_userModel![index].email),
-                      Text(_userModel![index].website),
-                    ],
-                  )
-                ]
+              child: Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: Column(
+                  children: [
+                    Padding(
+                      padding: const EdgeInsets.all(8.0),
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                        children: [
+                          Text(_userModel![index].id.toString()),
+                          Text(_userModel![index].username),
+                        ],
+                      ),
+                    ),
+                    const SizedBox(
+                      height: 20.0,
+                    ),
+                    Padding(
+                      padding: const EdgeInsets.all(8.0),
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                        children: [
+                          Text(_userModel![index].email),
+                          Text(_userModel![index].website),
+                        ],
+                      ),
+                    )
+                  ]
+                ),
               ),
             );
           }

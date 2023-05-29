@@ -20,6 +20,7 @@ and consume this apis with apps. This will be done in phases:
 <p><b>ON HOLD</b></p>
 
 ## App three: [Integrating an API into a Flutter app](https://blog.codemagic.io/rest-api-in-flutter/)
+![image](/images/app3.png)
 <p>Learn how to integrate APIs, fetch data from a public API, and use it in your Flutter app. by Abhishek Doshi </p>
 <p>There are a few steps that we can follow to easily integrate an API into our Flutter app:</p>
 
