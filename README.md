@@ -7,7 +7,7 @@ and consume this apis with apps. This will be done in phases:
 
 * <b>Follow along tutorials</b>: Being a beginner, I will start with the follow along tutorials
 * <b>Customly Tailored apps</b>: The custom apis and apps that I'll be building along the process - might write some tutorials too.
-## Follow along tutorials on djangorestframework
+# Follow along tutorials on djangorestframework
 
 ## App one: [Create a REST API With Django REST Framework](https://www.makeuseof.com/django-rest-api-create/).
 ![image](/images/appone.png)
@@ -29,3 +29,17 @@ and consume this apis with apps. This will be done in phases:
 * Step 4: Create a model class to parse the JSON.
 * Step 5: Create a file that handles the API call, and write specific methods to fetch and parse data.
 * Step 6: Use the data in your app.
+
+# Self-paced Projects
+
+## Task Management App
+
+[Official App Documentation](https://github.com/enzonjagi/Flutter_Apps/tree/main/projects/task_management/README.md)
+[Flutter App](https://github.com/enzonjagi/Flutter_Apps/tree/main/projects/task_management)
+[Django Rest Framework]()
+
+<p>Technologies:</p>
+
+* Flutter for the frontend mobile app development.
+* Django for the backend API development.
+* SQLite for the database.
