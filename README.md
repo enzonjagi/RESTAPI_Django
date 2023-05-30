@@ -36,7 +36,7 @@ and consume this apis with apps. This will be done in phases:
 
 [Official App Documentation](https://github.com/enzonjagi/Flutter_Apps/tree/main/projects/task_management/README.md)
 [Flutter App](https://github.com/enzonjagi/Flutter_Apps/tree/main/projects/task_management)
-[Django Rest Framework]()
+[Django Rest Framework](https://github.com/enzonjagi/RESTAPI_Django/tree/main/self_paced/task_mgt_api)
 
 <p>Technologies:</p>
 

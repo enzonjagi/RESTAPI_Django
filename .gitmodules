@@ -1,0 +1,3 @@
+[submodule "self_paced/task_mgt_api"]
+	path = self_paced/task_mgt_api
+	url = https://github.com/enzonjagi/task_mgt_api
